@@ -1,9 +1,6 @@
-# threejs-web-template-akella
+# learn-three-stripe-gradients
 
-Simple template used in [@akella](https://github.com/akella)/Yuri Artiukh's Threejs tutorials on Youtube
-
-Coded manually by watching [this video](https://youtu.be/8K5wJeVgjrM).
+Learning from: https://youtu.be/LW9d2cqIHb4
 
 How to run:
-
 - `parcel index.html`
